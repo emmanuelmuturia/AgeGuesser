@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AgeGuesser</string>
+    <string name="guess_age">Guess Age</string>
+
+    <string-array name="the_ages">
+        <item>10 to 20</item>
+        <item>20 to 30</item>
+        <item>30 to 40</item>
+        <item>40 to 50</item>
+        <item>50 to 60</item>
+        <item>60 to 70</item>
+        <item>70 to 80</item>
+    </string-array>
+</resources>
