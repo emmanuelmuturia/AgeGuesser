@@ -1,5 +1,5 @@
 # AgeGuesser
-An original implementation of the concepts taught in Chapter 2 of the Head Start First Android with Kotlin book.
+An original implementation of Layout Elements based on Head Start First Android with Kotlin book.
 
 # Concepts of Interest
 1. Spinner
